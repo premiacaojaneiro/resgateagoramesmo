@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		if (txt === 'sacar') {
 			btn.addEventListener('click', function(e) {
 				e.preventDefault();
-				window.location.href = '/caio/sacar/index.html';
+				window.location.href = 'index2.html';
 			});
 		}
 	});
